@@ -1,5 +1,5 @@
 ## Hey! 👋
-Just work with random projects for fun.
+Work on random projects for fun.
 
 - Currently working on a repo called ravent
 
