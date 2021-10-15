@@ -8,10 +8,11 @@ Just work with random projects for fun.
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, WebAssembly
 - ⚙️ React, Svelte, Vue, Angular
+- 🏫 Redis, GraphQL, RestAPI
 - 📚 FastAPI, Flask, Node.js
 - 👁️ SASS, CSS, Postcss
-- 💽 MySQL, SQL, Mongodb, Firebase
-- 🚅 Python, Java, Golang
+- 💽 MySQL, SQL, Mongodb, Firebase, Postgress
+- 🚅 Python, Java, Golang, Ruby
 - 🚊 C, C++, Rust
 - 🚇 Assembly (at&t and intel)
 <h2 align="center">⚡ Stats ⚡</h2>
