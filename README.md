@@ -10,7 +10,7 @@ Work on random projects for fun.
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" style="text-align:center">
     <a href="https://wakatime.com/@0xa48rx394r83e9/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xa48rx394r83e9&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xa48rx394r83e9&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats&title_color=DD2727&hide_border=false&border_radius=10&border_color=DD2727&theme=react"
             alt="0xa48rx394r83e9's wakatime last year stats">
     </a>
 </div>
