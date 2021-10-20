@@ -21,7 +21,7 @@ Work on random projects for fun.
       <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=0xa48rx394r83e9&theme=react&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&dates=DDDDDD&fire=DD2727&ring=DD2727&stroke=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727&sideLabels=DD2727&border_radius=10" alt="0xa48rx394r83e9" />
     </a>
     <a href="https://github.com/0xa48rx394r83e9/" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=0xa48rx394r83e9&show_icons=true&theme=react&border_color=ff0000&hide_border=false&title_color=DD2727&icon_color=DD2727&border_radius=10" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=0xa48rx394r83e9&show_icons=true&theme=react&border_color=DD2727&hide_border=false&title_color=DD2727&icon_color=DD2727&border_radius=10" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
