@@ -1,7 +1,7 @@
 ## Hey! 👋
 Work on random projects for fun.
 
-- Currently working on projects outside github
+- Currently working on projects outside github, focusing on malware analysis and development
 - Taking a break from my github projects
 - May work on a binary tree package for python
 
